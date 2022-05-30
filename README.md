@@ -10,5 +10,5 @@
   
 ### Currently studying:
 - Python
-- Javascript
+- Javascript & Node
 - Front-end & frameworks
